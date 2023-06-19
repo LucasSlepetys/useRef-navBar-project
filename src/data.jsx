@@ -30,6 +30,16 @@ export const links = [
     url: '/profile',
     text: 'profile',
   },
+  {
+    id: 6,
+    url: '/extra',
+    text: 'extra',
+  },
+  {
+    id: 7,
+    url: '/moreextra',
+    text: 'more extra',
+  },
 ];
 
 export const social = [
